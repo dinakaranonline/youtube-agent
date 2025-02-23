@@ -1,0 +1,17 @@
+# Secrets and credentials
+client_secrets.json
+
+# Cache files
+*_cache.json
+llm_cache.json
+youtube_cache.json
+
+# Log files
+*.log
+youtube_organizer.log
+
+# Python-specific
+__pycache__/
+*.py[cod]
+*$py.class
+.env 
